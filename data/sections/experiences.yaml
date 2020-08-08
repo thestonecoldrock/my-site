@@ -1,0 +1,66 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: AtomAI
+    url: "https://www.example.com"
+    location: Silicon valley
+    # company overview
+    overview: AtomAI is a widely recognized company for Neural-Network development. It builds tools for Artificial Intelligence.
+  positions:
+  - designation: Co-founder
+    start: feb 1547
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop ML tool for any task
+    - Design, develop and manage disaster recovery tool [Xtool](https://www.mnist.com) that backup Neural-Network, databases, and cluster's resource definition.
+    - Lead the team.
+    - this part of site is still under development.don't mind it.
+
+  - designation: under development... #Junior Software Engineer
+    start: Nov 2017
+    end: Oct 2019
+    responsibilities:
+    - Implement and test xyz feature for abc tool.
+    - Support client for abc tool.
+    - Learn k,d,w technology for xyz.
+    - this part of site is still under development.don't mind it.
+
+- company:
+    name: PreExample Co.
+    url: "https://www.preexample.com"
+    location: Nowhere
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: under development #Software Engineer
+    start: March 2016
+    end: May 2017
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+    - this part of site is still under development.don't mind it.
+- company:
+    name: AtomAI.
+    url: "https://www.instagram.com"
+    location: Kareli ,India
+    overview: AtomAI is responsible for most of the forces that governs the Universe.
+  positions:
+  - designation: Co-founder
+    start: Jun 2015
+    #end: Jan 2016
+    responsibilities:
+    - Count lost of interns.
+    - Count more interns.
+    - Count me as a founder.
+    - this part of site is still under development.don't mind it.

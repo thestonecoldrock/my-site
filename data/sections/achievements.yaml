@@ -1,0 +1,26 @@
+# section information
+section:
+  name: Achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Graduation
+  image: images/degree.jpg
+  summary: Will receive Bachelor of Technology (B.Tech.) in Computer Science and Engineering from RGPV University.
+
+- #title: Best Presenter
+  #image: images/achievements/presenter.jpg
+  #summary: Best presenter in the 2020 XYZ conference.
+
+- title: Champion
+  image: images/trophy.png
+  summary: Won nothing in no compedition.
+
+- #title: Award Winner
+  #image: images/achievements/woman-winner.jpg
+  #summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus architecto minus facere vero?
