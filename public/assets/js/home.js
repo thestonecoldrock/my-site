@@ -1,6 +1,3 @@
-const alert_var = alert("The site is still under Development and full of glitches, bugs and somewhat false information.")
-
-
 "use strict";
 
 var projectCards;
@@ -357,3 +354,5 @@ var projectCards;
   });
 
 })(jQuery);
+
+const alert_var = alert("The site is still under Development and full of glitches, bugs and somewhat false information.")

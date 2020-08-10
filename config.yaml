@@ -68,7 +68,7 @@ params:
     # give your some contact information. they will be used in the footer
     contactInfo:
       email: "sonirishabh33@gmail.com"
-      phone: "6263666205"
+      #phone: "6########5"
     # a summary of what you do
     summary:
     - I am a Student
