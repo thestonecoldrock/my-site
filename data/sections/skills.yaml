@@ -11,37 +11,41 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Python
-  #icon: "images/skills/kubernetes.png"
+  icon: "images/skills/py.png"
   summary: "Personal favorite programming language mosty because of its simplicity and workflow."
   url: "https://kubernetes.io/"
 
+- name: Data Science
+  icon: "images/skills/dataS.png" # 
+  summary: "Experienced in Data Science with libraries like numpy, pandas, scikit, matplotlib and seaborn."
+
 - name: Game Development
-  #icon: "images/skills/go.png"
+  icon: "images/skills/unreal.png"
   summary: "developed several simple computer games using pygame(a python library)."
   url: "https://pygame.org/"
 
 - name: Computer Newtorking
-  #icon: "images/skills/cloud.png"
+  icon: "images/skills/cloud.png"
   summary: "Have a pretty good grasp of Computer Newtorking and how the Internet works."
 
 - name: Competitive programming
-  #icon: "images/skills/prometheus.png"
+  icon: "images/skills/chef.png"
   summary: "Rich experience of Competitive programming on codechef.com"
   url: "https://codechef.com/"
 
 - name: Linux
-  #icon: "images/skills/linux.png"
+  icon: "images/skills/linux.png"
   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
 
 - name: Git
-  #icon: "images/skills/git.png"
+  icon: "images/skills/git.png"
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
 - name: C++
-  #icon: "images/skills/c++.png"
+  icon: "images/skills/c++.png"
   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
 
 - name: Web Development
-  #icon: # 
+  icon: "images/skills/web.png" # 
   summary: "I Know HTML, CSS and javascript, a bit of django and now HUGO too."
