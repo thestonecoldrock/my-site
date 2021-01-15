@@ -12,7 +12,7 @@ section:
 skills:
 - name: Python
   icon: "images/skills/py.png"
-  summary: "Personal favorite programming language mosty because of its simplicity and workflow."
+  summary: "Personal favorite programming language mostly because of its simplicity and workflow."
   url: "https://kubernetes.io/"
 
 - name: Data Science
