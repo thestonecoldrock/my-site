@@ -21,21 +21,21 @@ skills:
 
 - name: Game Development
   icon: "images/skills/unreal.png"
-  summary: "developed several simple computer games using pygame(a python library)."
+  summary: "developed several computer games using pygame(a python library)."
   url: "https://pygame.org/"
 
 - name: Computer Newtorking
   icon: "images/skills/cloud.png"
-  summary: "Have a pretty good grasp of Computer Newtorking and how the Internet works."
+  summary: "Not gonna brag but I'm pretty good at Computer Newtorking and CyberSecurity."
 
 - name: Competitive programming
   icon: "images/skills/chef.png"
-  summary: "Rich experience of Competitive programming on codechef.com"
+  summary: "Experience of Competitive programming on codechef.com"
   url: "https://codechef.com/"
 
 - name: Linux
   icon: "images/skills/linux.png"
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Using(Manjaro) as the main operating system. Capable of writing bash/shell scripts and kernel modificatioins."
 
 - name: Git
   icon: "images/skills/git.png"
@@ -44,8 +44,8 @@ skills:
 
 - name: C++
   icon: "images/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Know intermediate C/C++ programming. Used for contest programming and problem solving."
 
 - name: Web Development
   icon: "images/skills/web.png" # 
-  summary: "I Know HTML, CSS and javascript, a bit of django and now HUGO too."
+  summary: "I'm not much into Web Development but Know HTML, CSS and javascript, a bit of django and HUGO too."

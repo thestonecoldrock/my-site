@@ -16,7 +16,7 @@ company:
 resume: "files/index.html"
 
 # a summary about you
-summary: 'I am a passionate computer science enthusiast with 0(zero) years of working experience. I usually do some random projects for the purpose of learning, this site is one of them.'
+summary: 'I am a passionate computer science enthusiast with 0(zero) years of professional working experience. I usually do some random projects for fun.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -27,7 +27,7 @@ socialLinks:
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/thestonecoldrock"
+  url: "https://www.github.com"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -50,19 +50,19 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Leadership
-  percentage: 85
+  percentage: 95
   color: blue
 - name: Team Work
-  percentage: 85
+  percentage: 90
   color: yellow
 - name: Communication
-  percentage: 80
+  percentage: 75
   color: pink
 - name: Hard Working
-  percentage: 95
+  percentage: 90
   color: green
 - name: Fast Learner
-  percentage: 90
+  percentage: 95
   color: sky
 - name: Problem Solving
   percentage: 95
